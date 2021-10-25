@@ -1,5 +1,6 @@
 import re
-string_test = 'asdadasfkmkkamomkoncnionenionibinionookasdac'
+
+string_test = 'asdadasfkmkkamomkoncnionenionibinionookasdac' #<- facebook
 def find_substring(string):
     x = re.search("f.*a.*c.*e.*b.*o.*o.*k", string)
     if x:
@@ -8,4 +9,3 @@ def find_substring(string):
         return 'No match found'
 print(find_substring(string_test)) 
 print(find_substring('faceboo'))
-        

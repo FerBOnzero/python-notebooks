@@ -52,3 +52,48 @@ def merge_sort(list):
     return sorted_list + left + right
 print(merge_sort([9,8,7,3,2,1]))
 print([9,7,8]+[1,2,3])
+
+def quick_sort(list):
+    #if the list has only one element
+    if len(list) <= 1:
+        #return the list
+        return list
+    #set the pivot
+    pivot = list[0]
+    #set the left list
+    left = []
+    #set the right list
+    right = []
+    #for each element in the list
+    for i in list[1:]:
+        #if the element is less than the pivot
+        if i < pivot:
+            #add the element to the left list
+            left.append(i)
+        #if the element is greater than the pivot
+        else:
+            #add the element to the right list
+            right.append(i)
+    #return the sorted list
+    return quick_sort(left) + [pivot] + quick_sort(right)
+print(quick_sort([9,8,7,3,2,1]))
+
+def counting_sort(list):
+    #set the maximum value in the list
+    max_value = max(list)
+    #set the count list
+    count = [0] * (max_value + 1)
+    #for each element in the list
+    for i in list:
+        #increase the count of the element
+        count[i] += 1
+    #set the sorted list
+    sorted_list = []
+    #for each element in the count list
+    for i in range(len(count)):
+        #for the number of times the element occurs
+        for j in range(count[i]):
+            #add the element to the sorted list
+            sorted_list.append(i)
+    #return the sorted list
+    return sorted_list
