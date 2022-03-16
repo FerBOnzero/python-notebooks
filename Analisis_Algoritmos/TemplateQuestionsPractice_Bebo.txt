@@ -1,0 +1,183 @@
+﻿Template questions
+Ownership
+Leaders are owners. They think long term and don’t sacrifice long-term value for short-term results. They act on behalf of the entire company, beyond just their own team. They never say “that’s not my job."
+1. Tell me about a time when you decided to sacrifice short-term gain for long term-success for your company
+2. Provide an example of when you personally demonstrate ownership
+3. Tell me about a time when you took on a task that was beyond your job responsibilities.
+4. Tell me about a time when you had to work on a task with unclear responsibilities.
+5. Tell me about a time when you showed an initiative to work on a challenging project.
+1. Cuando cree las lambdas para BBVA fuera de mi responsabilidad
+2. La migración de las consolas de GSuite
+3. Fuera de mis responsabilidades, noté que faltaba organizar mejor los despliegues y documentarlos, así que, comenzamos a usar una cultura devops 
+
+
+Invent and Simplify
+Leaders expect and require innovation and invention from their teams and always find ways to simplify. They are externally aware, look for new ideas from everywhere, and are not limited by “not invented here." As we do new things, we accept that we may be misunderstood for long periods of time.
+1. Tell me about a time when you had a challenging situation in which you had to find an alternative approach
+2. Tell me about a time when you found a simple solution to a difficult problem?
+3. Describe a time when you found a simple solution to a complex problem.
+4. Tell me about a time when you invented something.
+5. Tell me about a time when you tried to simplify a process but failed. What would you have done differently?
+
+
+6. Cuando implemente la primera versión del routing usando s3 pero faltaba considerar https
+7. Recuperar el acceso a una instancia sin la private key, hice pruebas previas con un AMI
+ Are Right, A Lot
+Leaders are right a lot. They have strong judgment and good instincts. They seek diverse perspectives and work to disconfirm their beliefs.
+1. Tell me about a time when you made a bad decision
+2. Tell me about a time when you did not have enough data to make the right decision
+3. Tell me about a time when you effectively used your judgment to solve a problem.
+4. Tell me about a time when you had to work with insufficient information or incomplete data.
+5. Tell me about a time when you were wrong.
+6. Cuando tenía que proponer una solución para la centralización de cuantas con GSuite, no sabía cuántos usuarios había ni las credenciales para acceder
+Learn and Be Curious
+Leaders are never done learning and always seek to improve themselves. They are curious about new possibilities and act to explore them.
+1. Tell me something interesting you’ve learned recently
+2. Describe a time when you were challenged to think differently in order to find a better solution to a problem
+3. Tell me about an important lesson you learned over the past year.
+4. Tell me about a situation or experience you went through that changed your way of thinking.
+5. Tell me about a time when you made a smarter decision with the help of your curiosity.
+6. What’s the most innovative new idea that you have implemented? 
+
+
+
+
+Hire and Develop the Best
+Leaders raise the performance bar with every hire and promotion. They recognize exceptional talent, and willingly move them throughout the organization. Leaders develop leaders and take seriously their role in coaching others. We work on behalf of our people to invent mechanisms for development like Career Choice.
+1. Tell me about a time when you coached someone
+2. How do you help your employees to grow?
+3. Tell me about a time when you mentored someone.Situation
+4. Tell me about a time when you made a bad hire. When did you figure it out, and what did you do?
+5. What qualities do you look for in potential candidates when making hiring decisions?
+Insist on the Highest Standards
+Leaders have relentlessly high standards — many people may think these standards are unreasonably high. Leaders are continually raising the bar and drive their teams to deliver high quality products, services, and processes. Leaders ensure that defects do not get sent down the line and that problems are fixed so they stay fixed.
+1. Tell me about a time when you refused to compromise your standards
+2. Tell me about a time when you relentlessly worked on improving the quality of a fully working product, service or process
+3. Tell me about a time when you were dissatisfied with the quality of a project at work. What did you do to improve it?
+4. Tell me about a time when you motivated others to go above and beyond.
+5. Describe a situation when you couldn't meet your standards and expectations on a task.
+Think Big
+Thinking small is a self-fulfilling prophecy. Leaders create and communicate a bold direction that inspires results. They think differently and look around corners for ways to serve customers.
+1. Tell me about a time when you took on a big risk, because you focused on long term thinking
+2. Tell me about a time when you successfully pitched an idea to global stakeholders
+3. Tell me about your most significant professional achievement.
+4. Tell me about a time when you had to make a bold and challenging decision.
+5. Tell me about a time when your vision led to a great impact.
+Bias for Action
+Speed matters in business. Many decisions and actions are reversible and do not need extensive study. We value calculated risk taking. 
+1. Tell me about a time you had to quickly adjust your work priorities to meet changing demands
+2. Tell me about a time when you were working on a tough deadline and you did not have the time to consider all options
+3. Provide an example of when you took a calculated risk.
+4. Describe a situation when you took the initiative to correct a problem or a mistake rather than waiting for someone else to do it.
+5. Tell me about a time when you required some information from somebody else, but they weren't responsive. What did you do?
+6. Tell me about a time when you had to quickly adjust your work priorities to meet changing demands
+Frugality
+Accomplish more with less. Constraints breed resourcefulness, self-sufficiency, and invention. There are no extra points for growing headcount, budget size, or fixed expense.
+1. Tell me about a time when you requested additional resources for a project
+2.  How do you make a tradeoff between quality and cost?
+3. Describe a time when you had to rely on yourself to complete a task.
+4. Tell me about a time when you had to be frugal.
+5. Tell me about a time when you had to rely on yourself to complete a project.
+Earn Trust
+Leaders listen attentively, speak candidly, and treat others respectfully. They are vocally self-critical, even when doing so is awkward or embarrassing. Leaders do not believe their or their team’s body odor smells of perfume. They benchmark themselves and their teams against the best.
+1. Tell me about a time when you received tough feedback from your manager. How did you respond?
+2. Tell me about a time when you uncovered a significant people problem in your team
+3. Describe a time when you had to speak up in a difficult or uncomfortable environment.
+4. What would you do to gain the trust of your team?
+5. Tell me about a time when you had to tell a harsh truth to someone.
+6. Tell me about a time when you received negative feedback from your manager. How did you respond? 
+Dive Deep
+Leaders operate at all levels, stay connected to the details, audit frequently, and are skeptical when metrics and anecdotes differ. No task is beneath them.
+1. Tell me about a time when you had a complex problem that required a lot of in-depth analysis
+2. Tell me about a time when you had to investigate a challenge in your team
+3. Tell me about the most complicated problem you've had to deal with.
+4. Give me an example of when you utilized in-depth data to develop a solution.
+5. Tell me about something that you have learned in your role.
+6. Tell me about a time when you missed an obious solution to a problem
+7. A time when you faced a problem that had multiple possible solutions
+Have Backbone; Disagree and Commit
+Leaders are obligated to respectfully challenge decisions when they disagree, even when doing so is uncomfortable or exhausting. Leaders have conviction and are tenacious. They do not compromise for the sake of social cohesion. Once a decision is determined, they commit wholly.
+1. Tell me about a time when you disagreed with your boss
+2. Tell me about a time when you raised an uncomfortable issue in an internal meeting
+3. Describe a time when you disagreed with the approach of a team member. What did you do?
+4. Give me an example of something you believe in that nobody else does.
+5. Tell me about an unpopular decision of yours.
+Deliver Results
+Leaders focus on the key inputs for their business and deliver them with the right quality and in a timely fashion. Despite setbacks, they rise to the occasion and never settle.
+
+
+1. Tell me about a time when you failed to deliver something significant on time.
+2. Tell me about a time when you were 75% through a project and had to pivot strategy
+3. Describe the most challenging situation in your life and how you handled it
+4. Give an example of a time when you had to handle a variety of assignments. What was the outcome?
+5. Tell me about a time when your team gave up on something, but you pushed them to deliver results.
+
+
+Overall questions
+1. Why Amazon?
+2. Which leadership principle of Amazon’s do you connect with most?
+3. Do you know who the Amazon CEO is? How do you pronounce his name?
+4. Tell me about a time you faced a crisis at work. How did you handle it?
+5. Describe [Amazon product or service relevant to the role] as you would to a prospective customer.
+6. Can you tell me about a time you had to make a fast customer service decision without any guidance? How did you decide what to do?
+7. Tell me about a time that you dealt with a hostile customer.
+8. When given an unfamiliar task, how do you ensure you handle it properly?
+9. If you are given two conflicting priorities from two separate managers, how do you figure out how to proceed?
+10. Give me an example of when you received criticism. How did you respond to the information?
+11. What metrics do you use to drive positive change?
+12. If a supervisor asked you to do something unsafe that went against policy, what would you do?
+13. Tell me about a time when you were handling a project that went outside of your scope of work. How did you handle it?
+14. Describe a situation where you had to deal with ambiguity when making a decision.
+15. Can you tell me about a time when you had to make a decision when all of the data you needed was unavailable?
+16. Tell me about a time when you made a poor customer service decision. What steps did you take to remedy the situation?
+17. How do you keep yourself / your team / your colleagues motivated?
+18. What steps do you take to form positive and functional relationships with your colleagues?
+19. If a team member wasn’t pulling their weight, what would you do?
+20. What do you do to ensure that the customer experience is always a priority?
+21. How would you handle it if you discovered that your inventory levels were actually too high?
+22. Tell me about a time you disagreed with feedback you received. How did you address it?
+23. How do you handle a missed deadline / productivity target? 
+24. What do you like most about Amazon? What do you like least?
+25. Describe an instance where you were overwhelmed while on the job. How did you handle it?
+26. Tell me about a time when you failed to meet expectations. What did you do to recover?
+27. How do you ensure that workplace safety is always a priority for you when you work?
+28. What steps do you take to make sure every customer you speak with is wowed?
+29. How do you make sure that you fully understand a customer’s needs?
+30. Tell me about the last time you had to apologize to someone.
+31. Are you able to handle the physical demands of a warehousing job?
+32. What qualities do you possess that will help you succeed with Amazon?
+Teamwork/interpersonal skills
+1. What did you do when you needed to motivate a group of individuals? 
+2. Give me an example of a time you faced a conflict while working on a team. How did you handle that? 
+3. The last time you had to apologize to someone
+4. Describe a long-term project that you managed. How did you keep everything when you negotiated with others in your organization to reach an agreement?.
+1. Why Amazon now?
+2. What is the most technical project you worked on? What were the risks? Impact?
+3. Who are you?
+4. What feedback have you received from past managers?
+5. What was your most creative idea? 
+6. Give an example of a project that had a change in scope and how did you handle it?
+7. Give an example of when a project failed?
+8. How did you vent your ideas and convince leadership?
+9. Name a new metric you discovered?
+10. Walk me through your background?
+11. Give an example when you didn't agree with your manager?
+12. What are the KPIs for your company?
+1. Number of active customers
+2. Number of Customers Retained
+3. Number of customers that collocated a credit
+13. How would someone who has worked with you describe you?
+14. What was your proudest moment in your career? What part did you play in making that happen?
+15. What was a revolutionary idea that you implemented?
+16. If you didn't have goals or KPIs for your example, in hindsight what would you measure and why?
+17. If you were changing the AmazonFresh experience what are some of your ideas and how would you measure them?
+18. What metrics do you use to drive change?
+19. When was the time that you took ownership outside of your role?
+20. What is an area that is an opportunity for you to improve upon?
+21. Tell me about a feature or customer experience that had multiple CX issues?
+22. Tell me about a time you disagreed with your manager - I got this question 3 times
+23. Tell me when you made a judgment call since you didn't have any data (make sure you have 3 examples ready)
+1. Do you feel you have a good understanding of what this role is all about? 
+2. What is your technical background? 
+3. Can you think of a time when you had to make a decision about whether you didn’t have enough data to be sure you were making the right decision? What did you do and how did it work out? 
+4. Why AWS? What brings you to be talking with us?

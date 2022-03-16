@@ -226,28 +226,59 @@ def min_length_substring(s,t):
   empty_list = []
   empty_list.append(s)
   list_matching = []
-  count_2 = 0
-
+  list_final_matching = []
+  list_view = []
   for i in s:
     count = 0
-    s_list = list(s)
     while count + 1 < len(s):
       list_matching.append(s[s.index(i):count + 1])
       count += 1
   list_matching = list(set(list_matching))
   for i in list_matching:
     count = 0
+    i = list(i)
     for j in t:
-      if j in list(i):
+      if j in i:
         count += 1
+        i.pop(i.index(j))
     if count == len(t):
-      count_2 += 1
-    else: 
-      list_matching.pop(list_matching.index(i))
-  return list_matching, count_2
+       list_final_matching.append(len(i))
+  if list_final_matching:
+    return min(list_final_matching) + 2
+  else: 
+    return -1
 print(min_length_substring('dcbefebce', 'fd'))
+print(min_length_substring("bfbeadbcbcbfeaaeefcddcccbbbfaaafdbebedddf", "cbccfafebccdccebdd"))
 
+'''
+Factorial trailing Zeros
+'''
+def trailing_Zeros(n):
+  count = 0
+  while n>0:
+    n /= 5
+    count += n
+  return int(count)
+print(trailing_Zeros(10))
 
+'''
+Pow(x, n)
+'''
+from decimal import *
 
-
-
+def power(x,n):
+  if n < 0:
+    n = -1 * n
+    value = x**n
+    value = Decimal(1) / Decimal(value)
+    return value
+  elif x == 0:
+    return 0
+  elif n == 0:
+    return 1
+  else: 
+    return (x ** n)
+print(power(2.0000, 10))
+print(pow(2.1000, 3))
+print(pow(2.00000, -2))
+print(pow(2.00000, -2147483648))
